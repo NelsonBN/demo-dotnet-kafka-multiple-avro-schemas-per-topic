@@ -1,0 +1,15 @@
+{
+    "namespace": "DemoModel",
+    "type": "record",
+    "name": "ModelA",
+    "fields": [
+        {
+            "name": "Id",
+            "type": "string"
+        },
+        {
+            "name": "Username",
+            "type": "string"
+        }
+    ]
+}
